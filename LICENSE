@@ -108,15 +108,28 @@ the Licensor.
 
 4. OUTPUT AND INPUT DATA
 
-4.1 You retain all rights to the data You supply to the Software.
+4.1 The Licensor claims no rights in the data You supply to the Software.
+    You are solely responsible for confirming that You hold the rights
+    necessary to process that data.
 
-4.2 The Licensor claims no ownership over the Output. The Licensor makes no
-    representation that You hold the rights necessary to use, publish or
-    distribute the Output, and disclaims all liability in that respect.
+4.2 The Licensor claims no ownership over the Output. However, nothing in this
+    License transfers, grants or creates any right in the content represented
+    by the Output. Copyright and other rights in the structures, builds,
+    layouts, artwork or other content stored in a save file remain with their
+    respective authors. If You did not create that content, You may not
+    publish, distribute, license or commercially exploit the Output without
+    the permission of the rights holder.
 
-4.3 This License does not grant You any right to any third-party content,
+4.3 Using the Software does not make You the author of the exported content,
+    and does not merge any third-party work into Your own.
+
+4.4 This License does not grant You any right to any third-party content,
     asset, trademark or intellectual property that the Software may read,
     reference or convert.
+
+4.5 Where a save file contains content created by several authors, or is
+    hosted on a third-party server, additional terms or permissions may
+    apply. Determining and complying with those terms is Your responsibility.
 
 
 5. THIRD-PARTY COMPONENTS
