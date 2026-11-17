@@ -9,6 +9,22 @@ Convert local sandbox-game saves into textured GLB models.
 
 ---
 
+## 下载
+
+**程序在 Releases 页面，不在上面的文件列表里。** 上面的 LICENSE / README 等只是文档。
+
+**直接下载（92 MB）**：
+https://github.com/huiyuegexiaojie/minic2glb/releases/download/v1.0.0/minic2glb-v1.0.0-win64.zip
+
+**Release 页面**（含更新说明与校验值）：
+https://github.com/huiyuegexiaojie/minic2glb/releases/latest
+
+下载后完整解压，双击 `minic2glb.exe` 启动。不需要安装，不需要另装 Python。
+
+> 也可以点仓库首页右侧的 **Releases → v1.0.0**，在页面底部 **Assets** 里下载。放在 Release 而不是代码目录，是因为 92 MB 的二进制放进版本历史会让仓库变得很大、clone 变慢。
+
+---
+
 ## 免责声明
 
 本项目为**非官方个人项目**，与任何游戏开发商、发行商及其关联公司**没有任何关系**，未获其授权、认可或支持。
