@@ -4,24 +4,20 @@
 
 Convert local sandbox-game saves into textured GLB models.
 
-> **闭源专有软件**。本仓库仅发布可执行程序与文档，不含源代码。
+> **闭源专有软件**。本仓库仅发布文档与许可条款，不含源代码，当前也不提供可执行程序下载。状态见下方「下载」。
 > 许可条款见 [LICENSE](LICENSE)（英文正文）与 [LICENSE.zh-CN.md](LICENSE.zh-CN.md)（中文译本）。
 
 ---
 
 ## 下载
 
-**程序在 Releases 页面，不在上面的文件列表里。** 上面的 LICENSE / README 等只是文档。
+**当前暂不提供下载。**
 
-**直接下载（92 MB）**：
-https://github.com/huiyuegexiaojie/minic2glb/releases/download/v1.0.0/minic2glb-v1.0.0-win64.zip
+v1.0.0 的发行包已从 Releases 撤下，本仓库目前只公开文档与许可条款，不含可执行程序。
 
-**Release 页面**（含更新说明与校验值）：
-https://github.com/huiyuegexiaojie/minic2glb/releases/latest
+是否重新发布、何时发布，另行通知。关注本仓库即可获得更新；如对发布安排有疑问，请通过 Issues 联系。
 
-下载后完整解压，双击 `minic2glb.exe` 启动。不需要安装，不需要另装 Python。
-
-> 也可以点仓库首页右侧的 **Releases → v1.0.0**，在页面底部 **Assets** 里下载。放在 Release 而不是代码目录，是因为 92 MB 的二进制放进版本历史会让仓库变得很大、clone 变慢。
+> 已获取旧副本的使用者请自行判断是否继续使用。该版本不再提供支持与完整性校验，且其启动依赖的联网启用校验在离线或网络受限环境下会导致无法运行。
 
 ---
 
@@ -120,6 +116,8 @@ https://github.com/huiyuegexiaojie/minic2glb/releases/latest
 ---
 
 ## 快速开始
+
+> 以下流程适用于恢复发布后的版本。当前不提供下载。
 
 **图形界面**
 
