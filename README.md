@@ -15,7 +15,7 @@ Convert local sandbox-game saves into textured GLB models.
 
 https://github.com/huiyuegexiaojie/minic2glb/releases/latest
 
-下载 `minic2glb-v1.1.1-win64-setup.zip`，解压后运行其中的 `setup.exe` 安装。
+下载 `minic2glb-v1.1.1-win64-setup.exe`，双击运行安装。
 
 **v1.1.1 主要变化**
 
@@ -24,7 +24,7 @@ https://github.com/huiyuegexiaojie/minic2glb/releases/latest
 - 导出速度大幅提升
 - 网格优化，导出的 GLB 体积大幅下降
 
-> 安装包未做代码签名，Windows SmartScreen 可能提示"未知发布者"。可点「更多信息 → 仍要运行」；建议先按 Release 页给出的 SHA-256 校验文件。
+> 安装包未做代码签名。Windows SmartScreen 可能提示"未知发布者"，浏览器也可能提示"不常下载的文件"——这是未签名程序的正常提示。点「更多信息 → 仍要运行」即可；建议先按 Release 页给出的 SHA-256 校验文件。
 >
 > v1.0.0 的便携版（解压即用）已撤下，不再提供下载与支持。
 
@@ -121,12 +121,11 @@ https://github.com/huiyuegexiaojie/minic2glb/releases/latest
 
 ## 下载与安装
 
-1. 前往 **Releases** 页面，下载 `minic2glb-v1.1.1-win64-setup.zip`。
-2. 解压，得到 `minic2glb-v1.1.1-win64-setup.exe`。
-3. 双击运行安装程序，按提示完成安装。
-4. 安装完成后从开始菜单或桌面快捷方式启动。
+1. 前往 **Releases** 页面，下载 `minic2glb-v1.1.1-win64-setup.exe`。
+2. 双击运行安装程序，按提示完成安装。
+3. 安装完成后从开始菜单或桌面快捷方式启动。
 
-> **安装包未做数字签名**，Windows SmartScreen 可能提示"未知发布者"。这是个人项目的常见情况，不是病毒提示：
+> **安装包未做数字签名**，Windows SmartScreen 可能提示"未知发布者"，浏览器也可能提示"不常下载的文件"。这是个人项目的常见情况，不是病毒提示：
 >
 > - 点「更多信息」→「仍要运行」即可继续
 > - 更稳妥的做法是先按 Release 页给出的 SHA-256 校验文件，确认一致再运行
